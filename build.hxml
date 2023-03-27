@@ -1,0 +1,6 @@
+--library heaps
+--library colyseus
+--library hlsdl
+--class-path src
+--main Main
+--hl bin/out.hl
